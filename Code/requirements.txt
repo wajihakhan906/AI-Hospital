@@ -1,0 +1,6 @@
+ultralytics>=8.1
+torch>=2.1
+numpy
+pillow
+pydicom
+pytest
